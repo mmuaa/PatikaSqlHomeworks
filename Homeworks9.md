@@ -1,9 +1,23 @@
 # PatikaSqlHomeworks
-Odev 9.3
+
+Sorular:
+1-city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+2-customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+3-customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+
+Homeworks 9.1
 QUERY:
 
+SELECT city,country FROM city
+JOIN country ON city.country_id = country.country_id
 
-Odev 9.2
+![image](https://user-images.githubusercontent.com/73027559/150529083-9e519113-ed4f-4d98-96a0-a9625ad85815.png)
+
+Data Output :
+
+![image](https://user-images.githubusercontent.com/73027559/150529115-61578dae-261c-46cb-972a-3c0a8418e9a8.png)
+
+Homeworks 9.2
 QUERY:
 
 SELECT payment_id,first_name,last_name FROM payment
@@ -15,7 +29,7 @@ Data Output :
 
 ![image](https://user-images.githubusercontent.com/73027559/150528774-a2f3fa31-cc0d-4d35-9216-db804c161dad.png)
 
-Odev 9.3
+Homeworks 9.3
 QUERY:
 
 SELECT rental_id,first_name,last_name FROM rental
