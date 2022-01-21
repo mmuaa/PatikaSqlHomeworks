@@ -35,18 +35,34 @@ Data Output :
 
 Homeworks 1.3 QUERY:
 
+SELECT COUNT(title) FROM film
+WHERE title LIKE 'T%' AND rating = 'G'
+
+![image](https://user-images.githubusercontent.com/73027559/150536838-8a82ef6a-5d20-4686-8787-cd1ef37299c5.png)
+
 
 Data Output :
-Only some of the data were photographed.
+
+![image](https://user-images.githubusercontent.com/73027559/150536856-b9bb0dc1-99ab-4bae-a408-9588fbda75b4.png)
 
 Homeworks 1.4 QUERY:
 
+SELECT COUNT(country) FROM country
+WHERE country LIKE '_____' 
+
+![image](https://user-images.githubusercontent.com/73027559/150537142-62fbfe71-fb87-4dbc-9276-612a137a1238.png)
 
 Data Output :
 
+![image](https://user-images.githubusercontent.com/73027559/150537167-756e59e8-db79-49f2-8915-e4929b6833dd.png)
 
 Homeworks 1.5 QUERY:
 
+SELECT COUNT(city) FROM city
+WHERE city LIKE 'R%r' 
+
+![image](https://user-images.githubusercontent.com/73027559/150537409-8490ec7e-322f-4899-a26f-19c84bc8d17f.png)
 
 Data Output : 
-Only some of the data were photographed.
+
+![image](https://user-images.githubusercontent.com/73027559/150537381-0bb474f3-4be9-425b-a11e-19dce5609efe.png)
