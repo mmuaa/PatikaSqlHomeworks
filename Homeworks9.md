@@ -16,7 +16,7 @@ JOIN country ON city.country_id = country.country_id
 
 ![image](https://user-images.githubusercontent.com/73027559/150529083-9e519113-ed4f-4d98-96a0-a9625ad85815.png)
 
-Data Output :
+Data Output :Only some of the data were photographed.
 
 ![image](https://user-images.githubusercontent.com/73027559/150529115-61578dae-261c-46cb-972a-3c0a8418e9a8.png)
 
@@ -28,7 +28,7 @@ JOIN customer ON payment.customer_id = customer.customer_id
 
 ![image](https://user-images.githubusercontent.com/73027559/150528731-b2289efb-3fbb-4a2d-a369-f34a49a351c5.png)
 
-Data Output : 
+Data Output :Only some of the data were photographed.
 
 ![image](https://user-images.githubusercontent.com/73027559/150528774-a2f3fa31-cc0d-4d35-9216-db804c161dad.png)
 
@@ -40,6 +40,6 @@ JOIN customer ON rental.rental_id = customer.customer_id
 
 ![image](https://user-images.githubusercontent.com/73027559/150528152-a40a80a9-a82d-4453-b364-1bed0f0b05c5.png)
 
-Data Output : 
+Data Output :Only some of the data were photographed. 
 
 ![image](https://user-images.githubusercontent.com/73027559/150528213-eb0c9181-bb39-4c80-abae-f52e586998a8.png)
