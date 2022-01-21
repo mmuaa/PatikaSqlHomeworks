@@ -55,7 +55,6 @@ WHERE first_name='Mary'
 ![image](https://user-images.githubusercontent.com/73027559/150531204-fcfd4de6-71bd-48ee-8cac-efbab59fae09.png)
 
 Data Output :
-Only some of the data were photographed.
 
 ![image](https://user-images.githubusercontent.com/73027559/150531242-9a756335-80e4-40d1-8891-e22bb3ec9a2c.png)
 
